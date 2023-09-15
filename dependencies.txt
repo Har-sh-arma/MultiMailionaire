@@ -1,5 +1,0 @@
-python
-smtplib
-email
-pandas
-openpyxl
